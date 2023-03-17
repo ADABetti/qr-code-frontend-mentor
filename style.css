@@ -16,7 +16,7 @@
 
 .card {
   background-color: white;
-  max-width: 300px;
+  max-width: 285px;
   min-height: 480px;
   display: flex;
   flex-direction: column;
@@ -27,17 +27,17 @@
 }
 
 .img-qrcode {
-  max-width: 270px;
+  max-width: 100%;
   border-radius: 10px;
 }
 
 .text {
   text-align: center;
+  font-size: 15px;
 }
 
 .text > p {
-  margin-top: 8px;
-  font-size: 15px;
+  margin-top: 8px;  
   font-weight: 400;
   color: gray;
 }
