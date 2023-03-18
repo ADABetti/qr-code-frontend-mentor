@@ -5,7 +5,7 @@
   font-family: "Outfit", sans-serif;
 }
 
-.main {
+main {
  min-height: 100vh;
   background-color: rgb(212, 236, 243);
   display: flex;
